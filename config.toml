@@ -1,0 +1,13 @@
+[aws]
+access_key_id=""
+secret_access_key=""
+s3_bucket=""
+s3_key=""
+
+[twitter]
+bearer_token=""
+consumer_key=""
+consumer_secret=""
+access_token=""
+access_token_secret=""
+target=
